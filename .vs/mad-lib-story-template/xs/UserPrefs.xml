@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{48F20ACB-0257-4246-82FB-9D6A5CAD953C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mad-lib-story-template/Program.cs">
+    <Files>
+      <File FileName="mad-lib-story-template/Program.cs" Line="23" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mad-lib-story-template" expanded="True">
+            <Node name="mad-lib-story-template" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mad-lib-story-template PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

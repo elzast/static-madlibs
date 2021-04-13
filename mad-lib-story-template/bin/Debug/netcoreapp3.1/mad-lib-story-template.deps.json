@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mad-lib-story-template/1.0.0": {
+        "runtime": {
+          "mad-lib-story-template.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mad-lib-story-template/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

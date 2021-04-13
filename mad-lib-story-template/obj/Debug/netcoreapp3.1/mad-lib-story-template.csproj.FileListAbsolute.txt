@@ -1,0 +1,12 @@
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/bin/Debug/netcoreapp3.1/mad-lib-story-template.deps.json
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/bin/Debug/netcoreapp3.1/mad-lib-story-template.runtimeconfig.json
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/bin/Debug/netcoreapp3.1/mad-lib-story-template.runtimeconfig.dev.json
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/bin/Debug/netcoreapp3.1/mad-lib-story-template.dll
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/bin/Debug/netcoreapp3.1/mad-lib-story-template.pdb
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/obj/Debug/netcoreapp3.1/mad-lib-story-template.csprojAssemblyReference.cache
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/obj/Debug/netcoreapp3.1/mad-lib-story-template.AssemblyInfoInputs.cache
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/obj/Debug/netcoreapp3.1/mad-lib-story-template.AssemblyInfo.cs
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/obj/Debug/netcoreapp3.1/mad-lib-story-template.csproj.CoreCompileInputs.cache
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/obj/Debug/netcoreapp3.1/mad-lib-story-template.dll
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/obj/Debug/netcoreapp3.1/mad-lib-story-template.pdb
+/Users/Eli/Projects/mad-lib-story-template/mad-lib-story-template/obj/Debug/netcoreapp3.1/mad-lib-story-template.genruntimeconfig.cache
